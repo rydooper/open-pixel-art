@@ -7,7 +7,8 @@ function handleMultipleFileChanges(gitChanges) {
   );
   markdown(stripIndent`
     ## FAQ
-
+  
+  
     *Why has my Pull Request failed the tests?*
 
     Your Pull Request didn't fail the tests but you modified more files with
